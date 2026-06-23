@@ -1,5 +1,5 @@
 import React from "react";
-import Informe from "./Informe";
+import Informe from "./informe";
 
 function App() {
   return (
