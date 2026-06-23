@@ -6,13 +6,12 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^19.2.7",
-    "react-dom": "^19.2.7",
-    "react-markdown": "^10.1.0"
+  "react": "^18.0.0",
+  "react-dom": "^18.0.0",
+  "react-markdown": "^9.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
