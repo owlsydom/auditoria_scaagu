@@ -14,4 +14,4 @@ Un atacante podría extraer información sensible de clientes, como nombres y cu
 - Validación estricta de entradas.  
 - Monitoreo de consultas sospechosas.
 
-![Imagen de Evidencia](./img_scaagu/sqli_scaagu.png)
+![Evidencia SQL Injection](/img_scaagu/sqli_scaagu.PNG)

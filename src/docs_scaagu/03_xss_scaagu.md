@@ -14,4 +14,4 @@ Un atacante podría robar cookies de sesión, realizar phishing o manipular la i
 - Escape de caracteres especiales.  
 - Implementación de Content Security Policy (CSP).
 
-![Imagen de Evidencia](./img_scaagu/xss_scaagu.png)
+![Evidencia XSS](/img_scaagu/xss_scaagu.PNG)

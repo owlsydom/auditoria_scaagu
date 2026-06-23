@@ -14,4 +14,4 @@ Un atacante podría ejecutar comandos peligrosos, comprometer el servidor y acce
 - Uso de listas blancas para entradas.  
 - Restricción de privilegios en procesos.
 
-![Imagen de Evidencia](./img_scaagu/comandos_scaagu.png)
+![Evidencia Command Injection](/img_scaagu/comandos_scaagu.PNG)
